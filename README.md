@@ -17,4 +17,5 @@ CineFlix é uma aplicação web para gerenciamento e visualização de sessões 
 - Axios
 - React Router
 - Styled-components / CSS
+
 link :https://projeto-cineflex-tan.vercel.app/
